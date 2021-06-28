@@ -1,1 +1,2 @@
 # RegexandFiniteStateAutomata
+Program that takes a simple regular expression, checks if the regular expression is valid, converts the regular expression into Non-deterministic Finite-state Automata (NFA) and Display NFA, convert the NFA to Deterministic  Finite-state Automata (DFA) and Display DFA, and check if a given string is matched by a given regular expression. All these features will be displayed on a Menu.
